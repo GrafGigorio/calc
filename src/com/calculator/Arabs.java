@@ -1,4 +1,4 @@
-package com.calculator;
+package com.calculator;//
 
 public class Arabs {
     public static boolean checkArab(String ddd) //Проверяем наличие арабских символов
